@@ -67,6 +67,19 @@ He trabajado con pagos grupales sobre Nimiq, contratos y escrow en Stellar, aute
   </tr>
 </table>
 
+## Colaboración y código abierto
+
+También construyo dentro de repos compartidos. Mis pull requests públicos muestran trabajo en producto, infraestructura, pruebas e integraciones blockchain:
+
+| Ecosistema | Aporte |
+|---|---|
+| **Thalos Infrastructure** | Suite end-to-end para validar la integración completa con Trustless Work. [Ver PR →](https://github.com/Thalos-Infrastructure/ThalosBackend/pull/108) |
+| **StelloPay** | Persistencia de navegación móvil y modo dry-run para migraciones del backend. [Frontend →](https://github.com/Stellopay/stellopay-frontend/pull/668) · [Backend →](https://github.com/Stellopay/stellopay-backend/pull/146) |
+| **Pi DeFi / Wpi** | Scripts reproducibles para desplegar contratos en Stellar. [Ver PR →](https://github.com/Pi-Defi-world/Wpi/pull/53) |
+| **IDIO** | Recibos y verificación de transacciones, i18n y refactor del flujo de autenticación. [Ver trabajo →](https://github.com/josueazc/IDIO/pulls?q=is%3Apr+author%3Aceshez) |
+| **Velar** | Conexión de wallet, unificación del login, mejoras visuales, reintentos de API y orquestación del entorno local. [Ver trabajo →](https://github.com/Velar-Bonds/Velar/pulls?q=is%3Apr+author%3Aceshez) |
+| **StarShop** | Integración del contrato de escrow para pagos del marketplace. [Ver PR →](https://github.com/StarShopCr/StarShop-Frontend/pull/316) |
+
 ## Mi caja de herramientas
 
 <p>
